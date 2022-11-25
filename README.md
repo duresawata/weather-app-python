@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Prepare Api
 
-go to https://openweathermap.org/ singin and get ==API_KEY==. then in the project folder open ==.env== file, in the empty quote paste your api_key and save it.
+go to https://openweathermap.org/ singin and get `API_KEY`. then in the project folder open `.env` file, in the empty quote paste your api_key and save it.
 
 After installed all the required packages and prepared the api, start the server using:
 
